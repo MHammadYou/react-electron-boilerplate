@@ -1,4 +1,9 @@
-# react-electron-boilerplate
+# React Electron Boilerplate
 
-npm install parcel-bundler  
-npm start
+>```
+>npm install parcel-bundler  
+>```
+
+>```
+>npm start
+>```
