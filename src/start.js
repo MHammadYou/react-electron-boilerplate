@@ -5,7 +5,6 @@ const options = {
   outDir: "./build",
   publicUrl: "./",
   sourceMaps: false,
-  //   autoInstall: false,
   hmr: false,
 };
 
@@ -24,6 +23,5 @@ let electronStarted = false;
       });
     }
   });
-
   bundler.bundle();
 })();
